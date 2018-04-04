@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crm32kafka:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="crm32kafka.war">
+      <element id="artifact" artifact-name="crm32kafka:war exploded" />
+    </root>
+  </artifact>
+</component>
